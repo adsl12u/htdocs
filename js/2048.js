@@ -189,38 +189,47 @@ $(function () {
                 case '2':
                     items.eq(i).css('background', 'rgba(0,153,204,0.05)');
                     items.eq(i).css('color', 'rgba(0,153,204,0.8)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '4':
                     items.eq(i).css('background', 'rgba(0,153,204,0.1)');
                     items.eq(i).css('color', 'rgba(0,153,204,0.75)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '8':
                     items.eq(i).css('background', 'rgba(0,153,204,0.2)');
                     items.eq(i).css('color', 'rgba(0,153,204,0.7)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '16':
                     items.eq(i).css('background', 'rgba(0,153,204,0.3)');
                     items.eq(i).css('color', 'rgba(0,153,204,0.65)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '32':
                     items.eq(i).css('background', 'rgba(0,153,204,0.4)');
                     items.eq(i).css('color', 'rgba(255,255,255,1)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '64':
                     items.eq(i).css('background', 'rgba(0,153,204,0.45)');
                     items.eq(i).css('color', 'rgba(255,255,255,0.9)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '128':
                     items.eq(i).css('background', 'rgba(0,153,204,0.5)');
                     items.eq(i).css('color', 'rgba(255,255,255,0.8)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '256':
                     items.eq(i).css('background', 'rgba(0,153,204,0.6)');
                     items.eq(i).css('color', 'rgba(255,255,255,0.9)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '512':
                     items.eq(i).css('background', 'rgba(0,153,204,0.65)');
                     items.eq(i).css('color', 'rgba(255,255,255,0.9)');
+                    items.eq(i).css('font-size', '40px');
                     break;
                 case '1024':
                     items.eq(i).css('background', 'rgba(0,153,204,0.7)');
